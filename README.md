@@ -1,5 +1,5 @@
 # Ingress-Portals-Bellingham
-Geo coordinates of portal locations in and around Bellingham, WA.
+Geo coordinates of portal locations in and around Bellingham, WA.  Works with [IngressDualMap](https://idm.t.allofti.me/).  Just drop the CSV in a directory named "IngressDualMap" on your SD or internal storage root directory, and import the data from the app to get started.
 
 ## Contributing
 
