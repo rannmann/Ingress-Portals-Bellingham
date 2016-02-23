@@ -6,7 +6,7 @@ Geo coordinates of portal locations in and around Bellingham, WA.  Works with [I
 All data is gathered through the ingress.com/intel page using two userscripts.  Make sure greasemoneky (Firefox) or Tapermonkey (Chrome) are installed, and install the scripts found in the repos below.
 
 * [IITC: Ingress Intel Map Total Conversion](https://github.com/jonatkins/ingress-intel-total-conversion)
-* [ITTC plugin: Ingress Dual Map Exporter](https://github.com/jonatkins/ingress-intel-total-conversion)
+* [ITTC plugin: Ingress Dual Map Exporter](https://gist.github.com/OllieTerrance/8547503/raw/dc9663c65e9834cc7f85d0c118999e7df5403836/IngressDualMap.user.js)
 
 1. Take `locations.csv` and open the file in a text editor (such as notepad, gedit, sublime text, etc.).
 2.  Navigate to https://www.ingress.com/intel in the browser with the userscripts above.
